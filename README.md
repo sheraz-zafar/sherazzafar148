@@ -1,46 +1,60 @@
 # 👋 Hi, I'm Sheraz Zafar  
 
-🚀 **Full Stack AI Engineer** | MERN & Next.js Specialist | Passionate about building **AI-powered, scalable, and user-friendly apps**.  
+🚀 **Full Stack AI Engineer** | MERN & Next.js Specialist | Building scalable and AI-powered web apps with a focus on clean code and great user experience.  
 
 ---
 
-## 🔧 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+## 🚀 About Me
+- 🧑‍💻 Full-stack developer with 3+ years of experience in React, Next.js, and Node.js.  
+- 🤖 Passionate about integrating **AI** into real-world apps (voice agents, automation, faceless video generation).  
+- 📈 Experienced in building and deploying SaaS products, APIs, and scalable cloud apps.  
+- 🎯 Always exploring new tech and pushing my boundaries.  
 
 ---
 
-## 📌 Featured Projects  
-- 📝 **AI Resume Builder** → Next.js + ShadCN + OpenAI | Build professional resumes with AI.  
-- 📞 **CallSupport AI** → Twilio + Vapi | Voice AI for seamless customer support.  
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+- 📝 **AI Resume Builder** → Next.js + ShadCN + OpenAI | Create professional resumes with AI.  
+- 📞 **CallSupport AI** → Twilio + Vapi | Voice AI for customer support.  
 - 🎥 **Faceless Video Generator** → n8n + ElevenLabs | Auto-generate AI videos from text prompts.  
-- 🛒 **Mini-Mart POS System** → MERN + Tailwind | Inventory, billing, and sales analytics.  
-
-👉 *More projects pinned below ⬇️*  
+- 🛒 **Mini-Mart POS System** → MERN + Tailwind | Inventory & billing system with analytics.  
 
 ---
 
 ## 📊 GitHub Stats
-![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraz-zafar&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-zafar&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=sheraz-zafar&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheraz-zafar&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-zafar&layout=compact&theme=radical" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sheraz-zafar&theme=radical" height="160"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sherazdevsolutions.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheraz-zafar-3a166321b/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sheraz-zafar)  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://sherazdevsolutions.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sheraz-zafar-3a166321b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@SherazZafar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ *“Code isn’t just instructions for machines—it’s an experience for humans.”*  
+⭐️ *“Code isn’t just about solving problems — it’s about creating impact.”*
