@@ -29,10 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherazzafar148&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherazzafar148&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherazzafar148&theme=radical)  
+## 📊 GitHub Stats
+![Sheraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraz-zafar&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-zafar&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=sheraz-zafar&theme=radical)
 
 ---
 
